@@ -47,7 +47,8 @@
     <!-- Maven Properties -->
     <maven-compiler.version>3.6.1</maven-compiler.version>
     <maven-site.version>3.6.1</maven-site.version>
-    <maven-surefire-report.version>2.20</maven-surefire-report.version>
+    <!-- <maven-surefire-report.version>2.20</maven-surefire-report.version> -->
+    <maven-surefire-report.version>3.2.2</maven-surefire-report.version>
     <maven-war.version>3.4.0</maven-war.version>
     
     <!-- Web Servlet Properties -->
