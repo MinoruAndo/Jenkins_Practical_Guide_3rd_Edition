@@ -28,7 +28,7 @@ public class SampleAction {
     /**
      * Constructor of SampleAction.
      * @param fstName firstName name of the user
-     * @param lastName last name of the user
+     * @param lstName last name of the user
      */
     public SampleAction(final String fstName, final String lstName) {
         this.firstName = fstName;
